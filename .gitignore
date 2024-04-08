@@ -1,0 +1,4 @@
+vendor/
+secrets.txt
+node_modules/*
+secrets*
